@@ -60,6 +60,7 @@ require('lsp.docker-ls')
 require('lsp.html-ls')
 require('lsp.efm-general-ls')
 require('lsp.virtual_text')
+require('lsp.omnisharp')
 
 -- vim.lsp.callbacks["textDocument/publishDiagnostics"] = function() end
 -- vim.lsp.handlers["textDocument/publishDiagnostics"] = nil
