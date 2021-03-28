@@ -18,7 +18,7 @@ on this repo, there is one for CoC and one for Native LSP
 Make sure you have the newest version of Neovim
 
 ``` bash
-bash <(curl -s https://raw.githubusercontent.com/ChristianChiarulli/nvim/master/utils/installer/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/nukedbit/nvim/master/utils/installer/install.sh)
 ```
 
 After installation run `nvim` and then `:PackerInstall`
